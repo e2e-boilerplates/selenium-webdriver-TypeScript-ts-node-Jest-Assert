@@ -1,7 +1,7 @@
 {
-  "name": "selenium-webdriver-typescript-ts-jest-jasmine",
+  "name": "selenium-webdriver-typescript-ts-jest-assert",
   "version": "1.0.0",
-  "description": "selenium-webdriver end-to-end test automation boilerplate, using TypeScript, ts-jest and Jest.",
+  "description": "selenium-webdriver end-to-end test automation boilerplate, using TypeScript, ts-jest, Jest and Expect",
   "devDependencies": {
     "@types/jest": "^25.1.1",
     "@types/node": "^12.12.26",
