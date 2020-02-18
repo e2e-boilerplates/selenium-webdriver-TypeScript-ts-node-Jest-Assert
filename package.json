@@ -25,12 +25,13 @@
   },
   "keywords": [
     "selenium-webdriver",
-    "es6modules",
     "typescript",
     "ts-node",
     "jasmine",
     "boilerplate",
-    "example"
+    "example",
+    "e2e",
+    "e2e test"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
