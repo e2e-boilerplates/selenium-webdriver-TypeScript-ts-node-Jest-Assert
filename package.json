@@ -56,5 +56,6 @@
     "pretty": "prettier --no-config '__tests__/*.ts' --write",
     "test": "npx jest"
   },
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {}
 }
