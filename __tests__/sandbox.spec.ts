@@ -1,5 +1,6 @@
-import assert from "assert";
+import * as assert from "assert";
 import { Builder, By } from "selenium-webdriver";
+// tslint:disable-next-line:no-submodule-imports
 import chrome from "selenium-webdriver/chrome";
 
 import "chromedriver";
