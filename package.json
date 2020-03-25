@@ -1,17 +1,18 @@
 {
   "author": "Girma Nigusse <xgirma@gmail.com>",
   "bugs": {
-    "url": "https://github.com/e2e-boilerplate/selenium-webdriver-typescript-ts-node-jest-assert/issues"
+    "url": "https://github.com/e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-assert/issues"
   },
   "dependencies": {
     "chromedriver": "80.0.1",
     "jest": "25.1.0",
     "selenium-webdriver": "4.0.0-alpha.7",
+    "ts-jest": "25.2.1",
     "ts-node": "8.8.1",
     "typescript": "3.8.3",
     "webdriver-manager": "12.1.7"
   },
-  "description": "Selenium-WebDriver end-to-end test automation boilerplate. Using TypeScript, ts-node, Jest and Assert.",
+  "description": "Selenium-WebDriver end-to-end test automation boilerplate. Using TypeScript, ts-jest, Jest and Assert.",
   "devDependencies": {
     "@types/jest": "25.1.4",
     "@types/node": "13.9.4",
@@ -23,7 +24,7 @@
     "tslint-config-prettier": "1.18.0",
     "tslint-plugin-prettier": "2.2.0"
   },
-  "homepage": "https://github.com/e2e-boilerplate/selenium-webdriver-typescript-ts-node-jest-assert#readme",
+  "homepage": "https://github.com/e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-assert#readme",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
@@ -39,20 +40,19 @@
     "jest",
     "selenium",
     "selenium-webdriver",
-    "ts-node",
+    "ts-jest",
     "typescript"
   ],
   "license": "MIT",
   "lint-staged": {
     "*.{ts,js,css,json,md}": [
-      "prettier --write",
-      "git add"
+      "prettier --write"
     ]
   },
-  "name": "selenium-webdriver-typescript-ts-node-jest-assert",
+  "name": "selenium-webdriver-typescript-ts-jest-jest-assert",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplate/selenium-webdriver-typescript-ts-node-jest-assert.git"
+    "url": "git+https://github.com/e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-assert.git"
   },
   "scripts": {
     "lint": "tslint -c tslint.json '__tests__/*.ts'",
