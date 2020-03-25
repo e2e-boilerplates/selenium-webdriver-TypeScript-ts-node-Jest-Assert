@@ -1,4 +1,4 @@
-name: selenium-webdriver-typescript-ts-node-jest-assert
+name: selenium-webdriver-typescript-ts-jest-jest-assert
 'on':
   push: null
   schedule:
