@@ -1,0 +1,12 @@
+| referrer                                                                                                    | count | uniques |
+| :---------------------------------------------------------------------------------------------------------- | :---- | :------ |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-assert                                          | 10    | 2       |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-node-jest-assert/actions                                  | 7     | 2       |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-node-jest-assert/actions/runs/62548472                    | 6     | 2       |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-node-jest-assert/runs/531850651                           | 4     | 2       |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-node-jest-assert                                          | 3     | 2       |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-assert/tree/master/.github                      | 3     | 1       |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-assert/actions                                  | 2     | 1       |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-assert/blob/master/.github/workflows/nodejs.yml | 2     | 1       |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-assert/pull/55                                  | 2     | 1       |
+| /e2e-boilerplate/selenium-webdriver-typescript-ts-jest-jest-assert/tree/master/.github/workflows            | 2     | 1       |
